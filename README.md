@@ -13,4 +13,3 @@ Steps:
 
 NetworkMaps.py >> generates the stress network maps at the intrinsic surface with moelcular positions overlaid.
 
-SurfaceFunctions.py >> Sub-routines for surface analysis.
