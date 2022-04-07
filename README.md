@@ -1,7 +1,7 @@
 # The-Intrinsic-Fragility-of-the-Liquid-Vapor-Interface
 Codes to reproduce the data of manuscript: https://doi.org/10.1021/acs.langmuir.2c00201
 
-Flowmol MD code was used for the simulations. This is opensource and can be found here: https://github.com/edwardsmith999/flowmol#flowmol
+Flowmol MD code was used for the simulations. This is an open source platform developed by one of the authors and can be found here: https://github.com/edwardsmith999/flowmol#flowmol
 
 intrinsic.in >> input file to produce the data.
 Steps: 
