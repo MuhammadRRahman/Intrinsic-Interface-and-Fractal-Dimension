@@ -3,7 +3,7 @@ Codes to reproduce the data of manuscript: https://doi.org/10.1021/acs.langmuir.
 
 Flowmol MD code was used for the simulations. This is an open source platform developed by one of the authors and can be found here: https://github.com/edwardsmith999/flowmol#flowmol
 
-intrinsic.in >> input file to produce the data.
+<b>intrinsic.in</b> : input file to produce the data.
 Steps: 
 1. Run in NVT ensemble with INTRINSIC_INTERFACE turned OFF (to speed up the process).
 2. Run a number of NVE ensembles with INTRINSIC_INTERFACE turned OFF (to speed up the process).
@@ -11,5 +11,5 @@ Steps:
 4. The data generated with INTRINSIC_INTERFACE turned ON were used for the surface stress analysis.
 
 
-NetworkMaps.py >> generates the stress network maps at the intrinsic surface with moelcular positions overlaid.
+<b>NetworkMaps.py</b> : generates the stress network maps at the intrinsic surface with moelcular positions overlaid.
 
