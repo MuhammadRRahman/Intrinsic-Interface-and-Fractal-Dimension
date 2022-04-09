@@ -4,7 +4,7 @@ https://doi.org/10.1021/acs.langmuir.2c00201
 
 Codes to reproduce the data of this manuscript: 
 
-<b>Flowmol MD code<b> was used for the simulations. This is an open source platform developed by one of the authors and can be found here: https://github.com/edwardsmith999/flowmol#flowmol
+<b>Flowmol MD code</b> was used for the simulations. This is an open source platform developed by one of the authors and can be found here: https://github.com/edwardsmith999/flowmol#flowmol
 
 <b>intrinsic.in</b> : input file to produce the data.
 Steps: 
