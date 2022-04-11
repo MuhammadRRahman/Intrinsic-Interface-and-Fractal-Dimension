@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-## Creates maps of the stress-networks at the intrinsic interface
+## Creates maps of the stress-networks at the intrinsic interface. These maps were then used for further surface analysis, i.e., FD.
+
 
 import matplotlib.pyplot as plt
 import numpy as np
