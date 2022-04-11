@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 15 10:17:58 2021
-
-@author: ERS, modified by MRR
-"""
+## Creates maps of the stress-networks at the intrinsic interface
 
 import matplotlib.pyplot as plt
 import numpy as np
