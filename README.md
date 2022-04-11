@@ -15,4 +15,4 @@ Steps:
 
 <b>NetworkMaps.py</b> : generates the stress network maps at the intrinsic surface with moelcular positions overlaid.
 
-More scripts will be added to this repository to reproduce all the figures of the manuscript. 
+<b><i> Additional scripts that analyses the surface and the surface stresses will be added to this repository soon.</i></b>
