@@ -1,13 +1,8 @@
 
 
 #######################################################################
-# This input file has been included for base-case simulation setup, and 
-# is designed to be read-only on the version-control server. Please 
-# create a copy of this file called 'MD.in' (the default input file name 
-# in the main code) if you would like to change the simulation 
-# parameters.
-# -----------------------------------------------------------------------
-
+#  Please make sure you change the processor topology to 1x1x1 when the 
+#  INTRINSIC_INTERFACE option is turned ON. 
 #------------------------------------------------------------------------
 #########################################################################
 
