@@ -14,5 +14,3 @@ Steps:
 4. The data generated with INTRINSIC_INTERFACE turned ON were used for the surface stress analysis.
 
 <b>NetworkMaps.py</b> : generates the stress network maps at the intrinsic surface with moelcular positions overlaid.
-
-<b><i> Additional scripts that analyses the surface and the surface stresses will be added to this repository soon.</i></b>
