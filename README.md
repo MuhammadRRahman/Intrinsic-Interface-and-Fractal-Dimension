@@ -8,9 +8,8 @@ Codes to reproduce the data of this manuscript:
 
 <b>intrinsic.in</b> : input file to reproduce the data.
 Steps: 
-1. Run in NVT ensemble with INTRINSIC_INTERFACE turned OFF (to speed up the process).
-2. Run NVE ensembles with INTRINSIC_INTERFACE turned OFF (to speed up the process).
-3. Using the final state of step 2 as restart file, run NVE ensemble with INTRINSIC_INTERFACE turned ON. When this option is turned on, the MPI topology should be 1x1x1. 
-4. The data generated with INTRINSIC_INTERFACE turned ON were used for the surface stress analysis.
+1. Initially, run in NVT ensemble with INTRINSIC_INTERFACE turned OFF (to speed up the process).
+2. Using the final state of step 1 as restart file, run NVE ensembles with INTRINSIC_INTERFACE turned OFF (to speed up the process) for sufficient amount of steps.
+3. Using the final state of step 2 as restart file, run NVE ensemble with INTRINSIC_INTERFACE turned ON. When this option is turned on, the MPI topology should be 1x1x1.Data generated with INTRINSIC_INTERFACE turned ON were used for the surface stress analysis.
 
 <b>NetworkMaps.py</b> : generates the stress network maps at the intrinsic surface with moelcular positions overlaid.
